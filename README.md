@@ -10,9 +10,3 @@ I work on control theory and Hamilton–Jacobi reachability, with a focus on lea
 - Learning-based methods and HJ solvers
 - Numerical methods and robotics
 
-## Find me
-
-- Website: [lunas112.github.io](https://lunas112.github.io/)
-- LinkedIn: [luna-sang](https://www.linkedin.com/in/luna-sang)
-
-Away from research, I love travel, skiing, photography, and looking for wild places — from mountain mornings to starry skies and the northern lights.
